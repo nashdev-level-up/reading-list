@@ -6,3 +6,5 @@
   * While the book focuses on DevOps, it contains insights about the
     misconceptions people often have about how software is created and about
     common dysfunctions that threaten many software projects.
+* [_Theory of Constraints_](http://www.leanproduction.com/theory-of-constraints.html)
+  * An introduction to the Theory of Constraints.
